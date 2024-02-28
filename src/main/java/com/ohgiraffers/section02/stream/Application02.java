@@ -13,7 +13,7 @@ public class Application02 {
 
         /*필기.
          *  FileReader
-         *  FileInputStream 과 사요애하는 방법이 거의 동일 하다
+         *  FileInputStream 과 사용하는 방법이 거의 동일 하다
          *  단, byte 단위가 아닌 character 단위로 읽어들이는 부분이 차이점이다 */
 
         FileReader file = null;
